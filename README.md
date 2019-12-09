@@ -2,9 +2,9 @@
 
 ## Setup
 
--> Create an account in https://cloud.openalpr.com/ and copy the secret key from the cloudapi section.
--> Add the secret key in the code.
--> Change the country code in code.
+1. Create an account in https://cloud.openalpr.com/ and copy the secret key from the cloudapi section.
+2. Add the secret key in the code.
+3. Change the country code in code.
 
 ## Run 
 
